@@ -1,0 +1,33 @@
+# Claude Code settings
+.claude/
+
+# Arduino/ESP32 build files
+*.bin
+*.elf
+*.hex
+*.map
+build/
+*.o
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+
+# OS files
+Thumbs.db
+desktop.ini
