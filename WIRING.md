@@ -40,4 +40,4 @@ The permanent wiring harnesses for both CAN and LIN are shown below, including t
 
 The wiring harness made for sniffing the LIN bus is shown below. Note that the black and grey connectors on the sniffing harness have male terminals, differentiating this harness from the permanent LIN harness, to easily connect in place of the existing seat button modules.
 
-![LIN sniffing harness](images/LIN_sniffing_harness.jpg)
+![LIN sniffing harness](images/lin_sniffing_harness.jpg)
